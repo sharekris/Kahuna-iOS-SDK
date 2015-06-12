@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'Kahuna-iOS-SDK'
-  s.version = '2.3.1'
+  s.version = '2.0.0'
   s.summary = 'Mobile A/B testing, personalization & analytics in one powerful platform.'
   s.description = 'Kahuna! Mobile A/B testing, personalization & analytics in one powerful platform.'
   s.homepage = 'https://www.Kahuna.com'
