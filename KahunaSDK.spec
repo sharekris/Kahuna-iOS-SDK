@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.social_media_url = 'https://twitter.com/Kahuna'
   s.platform = :ios, '6.0'
   s.requires_arc = true
-  s.source = { :git => 'https://github.com/sharekris/Leanplum-iOS-SDK.git' }
+  s.source = { :git => 'https://github.com/sharekris/Kahuna-iOS-SDK.git' }
   s.frameworks = 'CoreLocation', 'SystemConfiguration', 'UIKit'
   s.xcconfig = { 'OTHER_LDFLAGS' => '-ObjC' }
   s.preserve_paths = 'Kahuna.framework'
