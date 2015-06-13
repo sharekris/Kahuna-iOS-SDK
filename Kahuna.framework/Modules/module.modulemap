@@ -1,5 +1,5 @@
 framework module Kahuna {
-umbrella header "Kahuna.h"
+umbrella header "KahunaAnalytics.h"
 export *
 module *
 { export * }
